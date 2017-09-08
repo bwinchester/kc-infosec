@@ -4,6 +4,7 @@ List of KC InfoSec Companies
 # Companies
 
 * [Fishtech](https://fishtech.group/)
+* [Foresite](https://www.foresite.com/)
 * [LockPath](https://www.lockpath.com/)
 * [Optiv](https://www.optiv.com/)
 * [RiskAnalytics](https://www.riskanalytics.com/)
@@ -27,6 +28,6 @@ List of KC InfoSec Companies
 
 ## Remote Offices
 
-* [RiskIQ] (https://www.riskiq.com/)
+* [RiskIQ](https://www.riskiq.com/)
 
 ## Recruiting
