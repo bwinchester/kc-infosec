@@ -23,7 +23,7 @@ List of KC InfoSec Companies
 
 ## Security Teams
 
-* [CenturyLink] (www.centurylink.com)
+* [CenturyLink](www.centurylink.com)
 * [KU](https://technology.ku.edu/security)
 
 ## Remote Offices
