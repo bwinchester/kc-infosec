@@ -12,6 +12,7 @@ List of KC InfoSec Companies
 ## Consulting
 
 * [Security PS](http://www.securityps.com/)
+* [AOS](http://www.aos5.com/)
 
 ## Research & Development
 
