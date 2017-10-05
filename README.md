@@ -14,6 +14,7 @@ List of KC InfoSec Companies
 
 * [AOS](http://www.aos5.com/)
 * [Depth Security](https://depthsecurity.com/)
+* [Digital Maelstrom](https://www.digitalmaelstrom.net/)
 * [Security PS](http://www.securityps.com/)
 
 ## Research & Development
