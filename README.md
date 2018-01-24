@@ -16,6 +16,7 @@ List of KC InfoSec Companies
 * [Depth Security](https://depthsecurity.com/)
 * [Digital Maelstrom](https://www.digitalmaelstrom.net/)
 * [Security PS](http://www.securityps.com/)
+* [TrustFoundry](https://trustfoundry.net/)
 
 ## Research & Development
 
