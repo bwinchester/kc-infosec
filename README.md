@@ -25,7 +25,9 @@ List of KC InfoSec Companies
 
 ## Security Teams
 
+* [AMC Theaters](https://www.amctheatres.com/careers)
 * [CenturyLink](www.centurylink.com)
+* [DST](https://www.dstsystems.com/)
 * [KU](https://technology.ku.edu/security)
 
 ## Remote Offices
@@ -33,3 +35,5 @@ List of KC InfoSec Companies
 * [RiskIQ](https://www.riskiq.com/)
 
 ## Recruiting
+
+* [Allied Global Services](https://www.alliedglobalservices.com/) [@AlliedKatie](https://twitter.com/AlliedKatie)
