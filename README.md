@@ -13,6 +13,7 @@ List of KC InfoSec Companies
 ## Consulting
 
 * [AOS](http://www.aos5.com/)
+* [Communication Concepts](https://www.cciteam.com/services)
 * [Depth Security](https://depthsecurity.com/)
 * [Digital Maelstrom](https://www.digitalmaelstrom.net/)
 * [Security PS](http://www.securityps.com/)
