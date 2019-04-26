@@ -24,6 +24,7 @@ List of KC InfoSec Companies
 ## Products
 
 * [SpiderOak](https://spideroak.com/)
+* [Firemon](https://www.firemon.com)
 
 ## Security Teams
 
