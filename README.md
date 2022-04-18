@@ -3,7 +3,6 @@ List of KC InfoSec Companies
 
 # Companies
 
-* [Bantam](https://bantam-tech.com/)
 * [Fishtech](https://fishtech.group/)
 * [Foresite](https://www.foresite.com/)
 * [InsCyt](https://www.inscyt.com/) , FKA RiskAnalytics
