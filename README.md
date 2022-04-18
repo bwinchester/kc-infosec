@@ -5,7 +5,7 @@ List of KC InfoSec Companies
 
 * [Fishtech](https://fishtech.group/)
 * [Foresite](https://www.foresite.com/)
-* [InsCyt](https://www.inscyt.com/) , FKA RiskAnalytics
+* [InsCyt](https://www.inscyt.com/) , DBA RiskAnalytics
 * [LockPath](https://www.lockpath.com/)
 * [Optiv](https://www.optiv.com/)
 * [RSA Archer](https://www.archerirm.com)
